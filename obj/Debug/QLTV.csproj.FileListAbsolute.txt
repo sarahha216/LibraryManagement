@@ -1,0 +1,133 @@
+C:\Users\nhutmhuynh\Documents\17DH110676\CNPM\QLTV\bin\Debug\QLTV.exe.config
+C:\Users\nhutmhuynh\Documents\17DH110676\CNPM\QLTV\bin\Debug\QLTV.exe
+C:\Users\nhutmhuynh\Documents\17DH110676\CNPM\QLTV\bin\Debug\QLTV.pdb
+C:\Users\nhutmhuynh\Documents\17DH110676\CNPM\QLTV\obj\Debug\QLTV.csproj.AssemblyReference.cache
+C:\Users\nhutmhuynh\Documents\17DH110676\CNPM\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+C:\Users\nhutmhuynh\Documents\17DH110676\CNPM\QLTV\obj\Debug\QLTV.csproj.GenerateResource.cache
+C:\Users\nhutmhuynh\Documents\17DH110676\CNPM\QLTV\obj\Debug\QLTV.csproj.CoreCompileInputs.cache
+C:\Users\nhutmhuynh\Documents\17DH110676\CNPM\QLTV\obj\Debug\QLTV.exe
+C:\Users\nhutmhuynh\Documents\17DH110676\CNPM\QLTV\obj\Debug\QLTV.pdb
+C:\Users\nhutmhuynh\Documents\17DH110676\CNPM\QLTV\obj\Debug\QLTV.Dashboard.resources
+C:\Users\nhutmhuynh\Documents\17DH110676\CNPM\QLTV\obj\Debug\QLTV.Login.resources
+C:\Users\nhutmhuynh\Documents\17DH110676\CNPM\QLTV\obj\Debug\QLTV.AddBooks.resources
+C:\Users\nhutmhuynh\Documents\17DH110676\CNPM\QLTV\obj\Debug\QLTV.ViewBook.resources
+C:\Users\nhutmhuynh\Documents\17DH110676\CNPM\QLTV\obj\Debug\QLTV.AddStudent.resources
+C:\Users\nhutmhuynh\Documents\17DH110676\CNPM\QLTV\obj\Debug\QLTV.ViewStudentInformation.resources
+C:\Users\Administrator\Documents\Nhân\CNPM\QLTV\obj\Debug\QLTV.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Nhân\CNPM\QLTV\obj\Debug\QLTV.exe
+C:\Users\Administrator\Documents\Nhân\CNPM\QLTV\obj\Debug\QLTV.pdb
+C:\Users\nhutmhuynh\Documents\17DH110676\QLTV\bin\Debug\IssueBook.resx
+C:\Users\nhutmhuynh\Documents\17DH110676\QLTV\bin\Debug\QLTV.exe.config
+C:\Users\nhutmhuynh\Documents\17DH110676\QLTV\bin\Debug\QLTV.exe
+C:\Users\nhutmhuynh\Documents\17DH110676\QLTV\bin\Debug\QLTV.pdb
+C:\Users\nhutmhuynh\Documents\17DH110676\QLTV\obj\Debug\QLTV.csproj.AssemblyReference.cache
+C:\Users\nhutmhuynh\Documents\17DH110676\QLTV\obj\Debug\QLTV.AddBooks.resources
+C:\Users\nhutmhuynh\Documents\17DH110676\QLTV\obj\Debug\QLTV.AddStudent.resources
+C:\Users\nhutmhuynh\Documents\17DH110676\QLTV\obj\Debug\QLTV.CompleteBookDetails.resources
+C:\Users\nhutmhuynh\Documents\17DH110676\QLTV\obj\Debug\QLTV.Dashboard.resources
+C:\Users\nhutmhuynh\Documents\17DH110676\QLTV\obj\Debug\QLTV.IssueBook.resources
+C:\Users\nhutmhuynh\Documents\17DH110676\QLTV\obj\Debug\QLTV.Login.resources
+C:\Users\nhutmhuynh\Documents\17DH110676\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+C:\Users\nhutmhuynh\Documents\17DH110676\QLTV\obj\Debug\QLTV.ReturnBook.resources
+C:\Users\nhutmhuynh\Documents\17DH110676\QLTV\obj\Debug\QLTV.ViewBook.resources
+C:\Users\nhutmhuynh\Documents\17DH110676\QLTV\obj\Debug\QLTV.ViewStudentInformation.resources
+C:\Users\nhutmhuynh\Documents\17DH110676\QLTV\obj\Debug\QLTV.csproj.GenerateResource.cache
+C:\Users\nhutmhuynh\Documents\17DH110676\QLTV\obj\Debug\QLTV.csproj.CoreCompileInputs.cache
+C:\Users\nhutmhuynh\Documents\17DH110676\QLTV\obj\Debug\QLTV.exe
+C:\Users\nhutmhuynh\Documents\17DH110676\QLTV\obj\Debug\QLTV.pdb
+C:\Users\nhutmhuynh\Documents\17DH110676\QLTV\bin\Debug\QLTV.exe.manifest
+C:\Users\nhutmhuynh\Documents\17DH110676\QLTV\bin\Debug\QLTV.application
+C:\Users\nhutmhuynh\Documents\17DH110676\QLTV\obj\Debug\QLTV.exe.manifest
+C:\Users\nhutmhuynh\Documents\17DH110676\QLTV\obj\Debug\QLTV.application
+D:\Projects\Cong nghe phan mem\QLTV\bin\Debug\IssueBook.resx
+D:\Projects\Cong nghe phan mem\QLTV\bin\Debug\QLTV.exe.config
+D:\Projects\Cong nghe phan mem\QLTV\bin\Debug\QLTV.exe.manifest
+D:\Projects\Cong nghe phan mem\QLTV\bin\Debug\QLTV.application
+D:\Projects\Cong nghe phan mem\QLTV\bin\Debug\QLTV.exe
+D:\Projects\Cong nghe phan mem\QLTV\bin\Debug\QLTV.pdb
+D:\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.csprojAssemblyReference.cache
+D:\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.AddBooks.resources
+D:\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.AddStudent.resources
+D:\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.CompleteBookDetails.resources
+D:\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.Dashboard.resources
+D:\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.IssueBook.resources
+D:\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.Login.resources
+D:\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+D:\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.ReturnBook.resources
+D:\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.ViewBook.resources
+D:\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.ViewStudentInformation.resources
+D:\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.csproj.GenerateResource.cache
+D:\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.csproj.CoreCompileInputs.cache
+D:\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.exe.manifest
+D:\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.application
+D:\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.exe
+D:\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.pdb
+D:\Projects\Cong nghe phan mem\aQLTV\QLTV\bin\Debug\IssueBook.resx
+D:\Projects\Cong nghe phan mem\aQLTV\QLTV\bin\Debug\QLTV.exe.config
+D:\Projects\Cong nghe phan mem\aQLTV\QLTV\bin\Debug\QLTV.exe.manifest
+D:\Projects\Cong nghe phan mem\aQLTV\QLTV\bin\Debug\QLTV.application
+D:\Projects\Cong nghe phan mem\aQLTV\QLTV\bin\Debug\QLTV.exe
+D:\Projects\Cong nghe phan mem\aQLTV\QLTV\bin\Debug\QLTV.pdb
+D:\Projects\Cong nghe phan mem\aQLTV\QLTV\obj\Debug\QLTV.csprojAssemblyReference.cache
+D:\Projects\Cong nghe phan mem\aQLTV\QLTV\obj\Debug\QLTV.AddBooks.resources
+D:\Projects\Cong nghe phan mem\aQLTV\QLTV\obj\Debug\QLTV.AddStudent.resources
+D:\Projects\Cong nghe phan mem\aQLTV\QLTV\obj\Debug\QLTV.CompleteBookDetails.resources
+D:\Projects\Cong nghe phan mem\aQLTV\QLTV\obj\Debug\QLTV.Dashboard.resources
+D:\Projects\Cong nghe phan mem\aQLTV\QLTV\obj\Debug\QLTV.IssueBook.resources
+D:\Projects\Cong nghe phan mem\aQLTV\QLTV\obj\Debug\QLTV.Login.resources
+D:\Projects\Cong nghe phan mem\aQLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+D:\Projects\Cong nghe phan mem\aQLTV\QLTV\obj\Debug\QLTV.ReturnBook.resources
+D:\Projects\Cong nghe phan mem\aQLTV\QLTV\obj\Debug\QLTV.ViewBook.resources
+D:\Projects\Cong nghe phan mem\aQLTV\QLTV\obj\Debug\QLTV.ViewStudentInformation.resources
+D:\Projects\Cong nghe phan mem\aQLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.cache
+D:\Projects\Cong nghe phan mem\aQLTV\QLTV\obj\Debug\QLTV.csproj.CoreCompileInputs.cache
+D:\Projects\Cong nghe phan mem\aQLTV\QLTV\obj\Debug\QLTV.exe.manifest
+D:\Projects\Cong nghe phan mem\aQLTV\QLTV\obj\Debug\QLTV.application
+D:\Projects\Cong nghe phan mem\aQLTV\QLTV\obj\Debug\QLTV.exe
+D:\Projects\Cong nghe phan mem\aQLTV\QLTV\obj\Debug\QLTV.pdb
+C:\Users\AD\Downloads\QLTV\bin\Debug\IssueBook.resx
+C:\Users\AD\Downloads\QLTV\bin\Debug\QLTV.exe.config
+C:\Users\AD\Downloads\QLTV\bin\Debug\QLTV.exe.manifest
+C:\Users\AD\Downloads\QLTV\bin\Debug\QLTV.application
+C:\Users\AD\Downloads\QLTV\bin\Debug\QLTV.exe
+C:\Users\AD\Downloads\QLTV\bin\Debug\QLTV.pdb
+C:\Users\AD\Downloads\QLTV\obj\Debug\QLTV.csprojAssemblyReference.cache
+C:\Users\AD\Downloads\QLTV\obj\Debug\QLTV.AddBooks.resources
+C:\Users\AD\Downloads\QLTV\obj\Debug\QLTV.AddStudent.resources
+C:\Users\AD\Downloads\QLTV\obj\Debug\QLTV.CompleteBookDetails.resources
+C:\Users\AD\Downloads\QLTV\obj\Debug\QLTV.Dashboard.resources
+C:\Users\AD\Downloads\QLTV\obj\Debug\QLTV.IssueBook.resources
+C:\Users\AD\Downloads\QLTV\obj\Debug\QLTV.Login.resources
+C:\Users\AD\Downloads\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+C:\Users\AD\Downloads\QLTV\obj\Debug\QLTV.ReturnBook.resources
+C:\Users\AD\Downloads\QLTV\obj\Debug\QLTV.ViewBook.resources
+C:\Users\AD\Downloads\QLTV\obj\Debug\QLTV.ViewStudentInformation.resources
+C:\Users\AD\Downloads\QLTV\obj\Debug\QLTV.csproj.GenerateResource.cache
+C:\Users\AD\Downloads\QLTV\obj\Debug\QLTV.csproj.CoreCompileInputs.cache
+C:\Users\AD\Downloads\QLTV\obj\Debug\QLTV.exe.manifest
+C:\Users\AD\Downloads\QLTV\obj\Debug\QLTV.application
+C:\Users\AD\Downloads\QLTV\obj\Debug\QLTV.exe
+C:\Users\AD\Downloads\QLTV\obj\Debug\QLTV.pdb
+D:\HUFLIT\Nam 3\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.csprojAssemblyReference.cache
+D:\HUFLIT\Nam 3\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.AddBooks.resources
+D:\HUFLIT\Nam 3\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.AddStudent.resources
+D:\HUFLIT\Nam 3\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.CompleteBookDetails.resources
+D:\HUFLIT\Nam 3\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.Dashboard.resources
+D:\HUFLIT\Nam 3\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.IssueBook.resources
+D:\HUFLIT\Nam 3\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.Login.resources
+D:\HUFLIT\Nam 3\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+D:\HUFLIT\Nam 3\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.ReturnBook.resources
+D:\HUFLIT\Nam 3\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.ViewBook.resources
+D:\HUFLIT\Nam 3\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.ViewStudentInformation.resources
+D:\HUFLIT\Nam 3\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.csproj.GenerateResource.cache
+D:\HUFLIT\Nam 3\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.csproj.CoreCompileInputs.cache
+D:\HUFLIT\Nam 3\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.exe
+D:\HUFLIT\Nam 3\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.pdb
+D:\HUFLIT\Nam 3\Projects\Cong nghe phan mem\QLTV\bin\Debug\IssueBook.resx
+D:\HUFLIT\Nam 3\Projects\Cong nghe phan mem\QLTV\bin\Debug\QLTV.exe.config
+D:\HUFLIT\Nam 3\Projects\Cong nghe phan mem\QLTV\bin\Debug\QLTV.exe.manifest
+D:\HUFLIT\Nam 3\Projects\Cong nghe phan mem\QLTV\bin\Debug\QLTV.application
+D:\HUFLIT\Nam 3\Projects\Cong nghe phan mem\QLTV\bin\Debug\QLTV.exe
+D:\HUFLIT\Nam 3\Projects\Cong nghe phan mem\QLTV\bin\Debug\QLTV.pdb
+D:\HUFLIT\Nam 3\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.exe.manifest
+D:\HUFLIT\Nam 3\Projects\Cong nghe phan mem\QLTV\obj\Debug\QLTV.application
